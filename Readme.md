@@ -1,4 +1,4 @@
-####Things I have learned so far at **BLOC**
+Things I have learned so far at **BLOC**
 
 1. The basics of using Markdown.
 2. HTML
